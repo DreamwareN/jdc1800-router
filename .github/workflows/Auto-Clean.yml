@@ -1,4 +1,4 @@
-name: Clean-Release
+name: Auto-Clean
 
 on:
   #手动清理
